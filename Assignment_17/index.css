@@ -1,0 +1,29 @@
+.main{
+display: flex;
+flex-direction: column;
+text-align: center;
+justify-content: center;
+margin-top: 15%;
+width: 50%;
+margin-left: 15%;
+
+}
+h1{
+    margin-left: 10%;
+    margin-top: 10%;
+    margin-bottom: -10%;
+}
+#one{
+    border-radius: 10px;
+    background-color: rgb(170, 174, 51);
+    border: solid;
+}
+#two{
+    margin-top: 10%;
+    border-radius: 10px;
+    background-color: rgb(170, 174, 51);
+    border: solid;
+}
+body{
+    background-color: cornsilk;
+}
